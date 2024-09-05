@@ -1,3 +1,8 @@
+<p>
+<img src="https://github.com/damiandania/damiandania/blob/main/Pics/Cub3d.png"
+	alt="Project pic" width="150" height="150"/>
+</p>
+
 # Cub3D
 
 Cub3D is a team project from 42 school where the objective is to create a dynamic 3D maze viewer. Using the **MiniLibX** library, the project implements raycasting, inspired by the classic **Wolfenstein 3D** game—considered the first true first-person shooter (FPS) in video game history.
