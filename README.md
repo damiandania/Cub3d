@@ -33,7 +33,7 @@ Cub3D is a team project from 42 school where the objective is to create a dynami
 
 4. **Run the project:**
     ```bash
-    ./cub3D map/map1.cub
+    ./cub3D <path/to/map.cub>
     ```
 
 ## Dependencies
